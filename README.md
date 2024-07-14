@@ -12,7 +12,7 @@ In the visual, we see the Nobel Prizes awarded annually to the country with the 
 
 ### Insights:
 * Dominance of the United States:
-The United States of America is the country with the most awards in the analysis.
+  * The United States of America is the country with the most awards in the analysis.
   * The U.S. began to dominate the Nobel Prizes starting from the 1970s.
   * Factors contributing to this dominance include:
     * Significant emphasis on technological advancements and scientific research during the Cold War period.
